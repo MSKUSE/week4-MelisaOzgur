@@ -13,6 +13,8 @@ public class Nim {
         // TODO: Prompt the player to choose a pile
         // TODO: Prompt the player to choose the number of stones to remove
         // TODO: Validate the player's move
+
+
         // TODO: Update the chosen pile
         // TODO: Switch to the next player
 
